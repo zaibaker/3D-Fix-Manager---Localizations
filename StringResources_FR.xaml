@@ -47,9 +47,9 @@
     <system:String x:Key="UninstallFixFailed">Désinstallation échouée</system:String>
     <system:String x:Key="InstallWrapper">Installer le Wrapper</system:String>
     <system:String x:Key="DeleteDownload">Supprimer téléchargement</system:String>
-    <system:String x:Key="DeleteDownloadToolTip">Deletes downloaded files of a 3D fix from 3D Fix Manager directory.</system:String>
-    <system:String x:Key="DeleteSuccess">Success. All downloaded files deleted.</system:String>
-    <system:String x:Key="DeleteError" xml:space="preserve">Error: Not all files could be deleted. &#x0d;&#x0d;Please make sure that no file is in use.</system:String>
+    <system:String x:Key="DeleteDownloadToolTip">Supprimer les fichiers téléchargés d'un Fix 3D issue du dossier de 3D Fix Manager.</system:String>
+    <system:String x:Key="DeleteSuccess">Succés. Tout les fichiers téléchargés ont été supprimé.</system:String>
+    <system:String x:Key="DeleteError" xml:space="preserve">Erreur: Tout les fichiers n'ont pu être supprimé. &#x0d;&#x0d;Veuillez vous assurer qu'aucun fichier est en cours d'utilisation.</system:String>
     <system:String x:Key="SourceFolder">Source Folder</system:String>
     <system:String x:Key="SourceFolderToolTip">Opens related fix folder in windows explorer.</system:String>
     <system:String x:Key="VisitSteamStore">Steam Store</system:String>
