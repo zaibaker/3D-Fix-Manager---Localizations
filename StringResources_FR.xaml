@@ -36,8 +36,8 @@
     
     <!-- Installation Tab -->
     <system:String x:Key="NoGamesInstalled">Aucun jeu compatible installé.</system:String>
-    <system:String x:Key="Play2D">Jouer 2D</system:String>
-    <system:String x:Key="Play3D">Jouer 3D</system:String>
+    <system:String x:Key="Play2D">Jouer en 2D</system:String>
+    <system:String x:Key="Play3D">Jouer en 3D</system:String>
     <system:String x:Key="InstallFix">Installer le fix 3D</system:String>
     <system:String x:Key="InstallFixCompleted">Installation complété</system:String>
     <system:String x:Key="InstallFixFailed">Installation échouée. Vérifier le chemin d'installation</system:String>
@@ -46,43 +46,43 @@
     <system:String x:Key="FixWrapperOutdated">Ce fix inclus une ancienne version de 3dmigoto.</system:String>
     <system:String x:Key="DownloadFix">Télécharger le Fix 3D</system:String>
     <system:String x:Key="UninstallFix">Désinstaller le Fix 3D</system:String>
-    <system:String x:Key="UninstallFixCompleted">Désinstallation complété</system:String>
+    <system:String x:Key="UninstallFixCompleted">Désinstallation achevée</system:String>
     <system:String x:Key="UninstallFixFailed">Désinstallation échouée</system:String>
     <system:String x:Key="InstallWrapper">Installer le Wrapper</system:String>
-    <system:String x:Key="DeleteDownload">Supprimer download</system:String>
+    <system:String x:Key="DeleteDownload">Supprimer le téléchargement</system:String>
     <system:String x:Key="DeleteDownloadToolTip">Deletes downloaded files of a 3D fix from 3D Fix Manager directory.</system:String>
     <system:String x:Key="DeleteSuccess">Success. All downloaded files deleted.</system:String>
     <system:String x:Key="DeleteError" xml:space="preserve">Error: Not all files could be deleted. &#x0d;&#x0d;Please make sure that no file is in use.</system:String>
-    <system:String x:Key="SourceFolder">Source Folder</system:String>
-    <system:String x:Key="SourceFolderToolTip">Opens related fix folder in windows explorer.</system:String>
-    <system:String x:Key="VisitSteamStore">Steam Store</system:String>
-    <system:String x:Key="VisitSteamStoreToolTip">Opens Steam Store in webbrowser to get additional information of the game.</system:String>
+    <system:String x:Key="SourceFolder">Répertoire d'origine</system:String>
+    <system:String x:Key="SourceFolderToolTip">Ouvrir le dossier d'origine du fix dans l'explorateur Windows.</system:String>
+    <system:String x:Key="VisitSteamStore">Magasin Steam</system:String>
+    <system:String x:Key="VisitSteamStoreToolTip">Ouvrir le magasin Steam dans le navigateur internet afin d'obtenir d'avantage d'information sur le jeu.</system:String>
     <system:String x:Key="VisitHelixMod">HelixMod</system:String>
-    <system:String x:Key="VisitHelixModToolTip">Get more information about the selected fix on HelixMod Webpage.</system:String>
-    <system:String x:Key="ForceCompatibilityMode">Force CM</system:String>
-    <system:String x:Key="EnableFix">Enable Fix</system:String>
-    <system:String x:Key="DownloadCompleted">Download completed</system:String>
-    <system:String x:Key="Downloading">Downloading...</system:String>
-    <system:String x:Key="DownloadFailed">Download failed</system:String>
-    <system:String x:Key="Extracting">Etracting...</system:String>
-    <system:String x:Key="ExtractionFailed">Extraction failed</system:String>
-    <system:String x:Key="GameNotInstalled">Game not installed</system:String>
+    <system:String x:Key="VisitHelixModToolTip">Avoir plus d'information à propos du fix sélectionné sur le site HelixMod.</system:String>
+    <system:String x:Key="ForceCompatibilityMode">Forcez le Mode Compatibilité</system:String>
+    <system:String x:Key="EnableFix">Activer le fix</system:String>
+    <system:String x:Key="DownloadCompleted">Téléchargement complété</system:String>
+    <system:String x:Key="Downloading">En cours de téléchargement...</system:String>
+    <system:String x:Key="DownloadFailed">Téléchargement échoué</system:String>
+    <system:String x:Key="Extracting">Décompression...</system:String>
+    <system:String x:Key="ExtractionFailed">Décompression échoué</system:String>
+    <system:String x:Key="GameNotInstalled">Jeu non installé</system:String>
     <system:String x:Key="OpenExplorerError">Error: Could not open path in Windows explorer. Path does not exist</system:String>
-    <system:String x:Key="HotkeyBackupFound">A hotkey backup was found. Do you want to restore it?</system:String>
-    <system:String x:Key="CreateHotkeyBackup">Do you want to create a backup of your hotkeys before uninstall?</system:String>
+    <system:String x:Key="HotkeyBackupFound">Une touche de raccourci a été trouvé. Voulez-vous la restaurer?</system:String>
+    <system:String x:Key="CreateHotkeyBackup">Souhaitez vous faire une sauvegardes de vos raccourcis avant la désinstallation?</system:String>
 
     <!--....................  New / Edit Profile Tab Start .......................... -->
 
-    <system:String x:Key="GameTitle">Game Title:</system:String>
+    <system:String x:Key="GameTitle">Titre du jeu:</system:String>
     <system:String x:Key="RelativeInstallPath">Relative Install Path:</system:String>
     <system:String x:Key="CustomRootPath">Custom Root / Game Path:</system:String>
     <system:String x:Key="RelativeGameIniPath">Relative Game Ini Path:</system:String>
     <system:String x:Key="AdditionalRelativeGameIniPath">Additional relative Game Ini Path:</system:String>
-    <system:String x:Key="DownloadLinkFix">Download Link to Fix:</system:String>
-    <system:String x:Key="AdditionalDownloadLinkFix">Additional Download Link:</system:String>
+    <system:String x:Key="DownloadLinkFix">Liens de téléchargement du Fix:</system:String>
+    <system:String x:Key="AdditionalDownloadLinkFix">Liens de téléchargement additionnel:</system:String>
     <system:String x:Key="FixArchiveExtractor">Fix Archive Extractor:</system:String>
 
-    <system:String x:Key="WebLinkHelix">Web Link to Helix / Geforce Forum:</system:String>
+    <system:String x:Key="WebLinkHelix">Liens internet vers le site Helix ou le forum Nvidia:</system:String>
 
     <system:String x:Key="IconPath">Icon Path:</system:String>
     <system:String x:Key="Profile2DMode">Nvidia Inspector Profile for 2D Mode:</system:String>
@@ -99,18 +99,18 @@
     <system:String x:Key="InstallWithDialog">Install with Dialog</system:String>
     <system:String x:Key="SilentInstallation">Silent Installation</system:String>
 
-    <system:String x:Key="Unknown">Unknown</system:String>
-    <system:String x:Key="FixBroken">Fix Broken</system:String>
+    <system:String x:Key="Unknown">Inconnu</system:String>
+    <system:String x:Key="FixBroken">Fix défaillant</system:String>
     <system:String x:Key="FixBrokenToolTip">3D Fix is currently broken.</system:String>
     <system:String x:Key="RequiresExtraSteps">Requires extra steps by user</system:String>
     <system:String x:Key="RequiresExtraStepsToolTip">Installation of fix requires additional steps done by the user for completing installation. Please check description below.</system:String>
     <system:String x:Key="WorksOutOfTheBox">Works out of the box</system:String>
     <system:String x:Key="WorksOutOfTheBoxToolTip">No additional steps required for installing the fix. This is a simple one click installation.</system:String>
     
-    <system:String x:Key="CloseRTSS">Close RTSS</system:String>
-    <system:String x:Key="StartRTSS">Start RTSS</system:String>
+    <system:String x:Key="CloseRTSS">Fermer RTSS</system:String>
+    <system:String x:Key="StartRTSS">Démarrer RTSS</system:String>
 
-    <system:String x:Key="StartByAppId">Start via Steam App ID</system:String>
+    <system:String x:Key="StartByAppId">Démarrer via le Steam App ID</system:String>
     <system:String x:Key="StartByGameExe">Start via Game Exe</system:String>
 
     <system:String x:Key="RunNormal">Run normal</system:String>
@@ -135,7 +135,7 @@
     <!--....................  Hotkeys Tab Begin .......................... -->
 
     <system:String x:Key="FixInfo">Fix Info:</system:String>
-    <system:String x:Key="Game">Game:</system:String>
+    <system:String x:Key="Game">Jeu:</system:String>
     <system:String x:Key="FixType">Fix Type:</system:String>
     <system:String x:Key="WrapperVersion">Wrapper Version:</system:String>
     <system:String x:Key="IniPath">Ini Path:</system:String>
